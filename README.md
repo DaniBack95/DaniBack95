@@ -1,4 +1,6 @@
-### Hi there 👋
+# Hola, mi nombre Daniel Baracaldo 👋
+- Analista y Desarrolador de Software.
+- Enfocado en adquirir habilidades en el desarrollo web y especialización en el área FrontEnd.
 
 <!--
 **DaniBack95/DaniBack95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
