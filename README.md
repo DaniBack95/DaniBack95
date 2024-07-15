@@ -1,3 +1,6 @@
+![BannerJs](https://github.com/user-attachments/assets/61dd5d64-6648-45f7-a59f-86acb19bc550)
+
+
 # Hola, mi nombre Daniel Baracaldo 👋
 - Analista y Desarrolador de Software.
 - Enfocado en adquirir habilidades en el desarrollo web y especialización en el área FrontEnd.
